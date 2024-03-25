@@ -9,7 +9,7 @@
   Criar um Website de um restaurante com diversas culinárias do Brasil!
   <br><br>
   
-  <h1>OBJETIVO:</h1>O objetivo consiste em explorar as diferentes culinárias do território brasileiro, afim de mostar a diversidade culinaria presente no país. Para isso o projeto "Temporo Regional" visa criar um "restaurante" que entregue toda essa diversidade no site. <br><br>
+  <h1>OBJETIVO:</h1>O objetivo consiste em explorar as diferentes culinárias do território brasileiro, afim de mostar a diversidade culinaria presente no país. Para isso o projeto "Tempero Regional" visa criar um "restaurante" que entregue toda essa diversidade no site. <br><br>
   
   <h1>FERRAMENTAS:</h1>
     As ferramentas do projeto passam pelo Canva (criação de logo e outras imagens), Github (repositório de codigos e ideais para a continuiade do projeto), VsCode ou Intellij (focada no desenvolvimento dos códigos para o projeto) e Docker (visa o controle de máquinas virtuais, caso determinada aplicação precise rodar em mais de um máquina).
